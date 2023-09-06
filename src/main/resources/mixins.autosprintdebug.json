@@ -1,8 +1,8 @@
 {
   "required": true,
   "minVersion": "0.7",
-  "package": "de.vepexlegit.autosprint.mixins",
-  "refmap": "mixins.autosprint.refmap.json",
+  "package": "de.vepexlegit.autosprintdebug.mixins",
+  "refmap": "mixins.autosprintdebug.refmap.json",
   "compatibilityLevel": "JAVA_8",
   "client": [
     "MixinEntityPlayerSP"
