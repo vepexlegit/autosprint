@@ -1,8 +1,8 @@
 [
 {
-  "modid": "autosprint",
-  "name": "AutoSprint",
-  "description": "This mod allows you to sprint automatically",
+  "modid": "autosprintdebug",
+  "name": "AutoSprintDebug",
+  "description": "This mod is an addition to the main autosprint mod.\nThis add-on will help you turn autosprint on or off",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
